@@ -3,3 +3,6 @@ authors = ["David Bohunek <bohunek@gmail.com>"]
 build = "build.rs"
 name = "f1lapscore"
 version = "0.1.0"
+
+[lib]
+name = "f1lapscore"
